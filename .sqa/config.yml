@@ -15,5 +15,5 @@ sqa_criteria:
         - fair-eva.py --id https://zenodo.org/records/15685917 --plugin oai-pmh --repository
           http://digital.csic.es/dspace-oai/request --api-endpoint http://localhost:9090/v1.0/rda/rda_all
           --json
-        container: qc.fair_boozy-buff-gopher
+        container: qc.fair_surly-flax-fousek
 timeout: 5400
